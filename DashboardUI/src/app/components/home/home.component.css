@@ -1,0 +1,13 @@
+.content-section {
+  display: flex;
+  margin-top: 1.5rem;
+}
+.left-sidebar {
+  flex-basis: 30%;
+  margin-right: 1.5rem;
+}
+.articals-container {
+  flex-basis: 70%;
+  flex-direction: column;
+  justify-content: space-between;
+}
